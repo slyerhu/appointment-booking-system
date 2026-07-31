@@ -73,7 +73,7 @@ Ha inkább lépésről lépésre szeretnéd beállítani a projektet:
    ```bash
    php artisan migrate:fresh
    ```
-   *(Ha a projekt tartalmaz Seedereket a tesztadatok betöltéséhez, futtathatod a `php artisan migrate:fresh --seed` parancsot is).*
+   *(A projekt tartalmaz Seedereket a tesztadatok betöltéséhez, futtathatod a `php artisan migrate:fresh --seed` parancsot is).*
 
 6. **Lokális szerver indítása**:
    ```bash
